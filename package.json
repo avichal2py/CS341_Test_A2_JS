@@ -1,0 +1,15 @@
+{
+  "name": "cs341_test_a2_js",
+  "version": "1.0.0",
+  "main": "salary.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
